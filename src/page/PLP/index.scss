@@ -1,0 +1,45 @@
+.main-content{
+    display:flex;
+    margin: 50px;
+    flex-wrap: wrap;
+    height: 25rem;
+    width: 100%;
+}
+.block-image-box{
+    border: double black 0.5rem;
+    margin: 10px;
+}
+.image-fav{
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 300px;
+}
+.image-alone{
+    width: 120%;
+    height: 300px;
+}
+.fav-alone{
+    font-size: 3rem;
+}
+.name-part{
+    text-align: center;
+}
+.price-part{
+    text-align: center;
+}
+.total-book-count{
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.plp-div{
+    margin: auto;
+}
+.image123{
+    width: 500px;
+    height: 300px;
+}
+#description{
+    font-size: 1.2rem;
+}
