@@ -13,7 +13,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "engines": {"npm": "6.9.0","node": "10.16.3"},
+  "engines": {
+    "npm": "6.9.0",
+    "node": "10.16.3"
+  },
   "dependencies": {
     "@loadable/component": "^5.11.0",
     "bootstrap": "^4.4.1",
@@ -35,7 +38,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
-    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
     "@babel/plugin-proposal-decorators": "^7.7.4",
     "@babel/plugin-proposal-object-rest-spread": "^7.7.7",
     "@babel/plugin-syntax-dynamic-import": "^7.8.3",
